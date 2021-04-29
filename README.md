@@ -1,5 +1,6 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisnde bir adet README dosyası v, bir adet de index.hmtl dosyası barındıryor.
+[resim](https://www.patika.dev/egitimler/frontend-web-development-patikasi/git/odev1/github.png)
 
 # Installation
 Öncelikle bu projeyi clonelayın.
