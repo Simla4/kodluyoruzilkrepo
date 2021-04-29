@@ -4,13 +4,13 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 # Installation
 Öncelikle bu projeyi clonelayın.
-"""git@github.com:Simla4/kodluyoruzilkrepo.git"""
+'''git@github.com:Simla4/kodluyoruzilkrepo.git'''
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-"""
+'''
 cd kodluyoruzilkrepo
 code .
-"""
+'''
 # License
  [Kodluyoruz](https://choosealicense.com/licenses/mit/)
