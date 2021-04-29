@@ -3,4 +3,4 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 # Installation
 Öncelikle bu projeyi clonelayın.
-git@github.com:Simla4/kodluyoruzilkrepo.git
+>git@github.com:Simla4/kodluyoruzilkrepo.git
