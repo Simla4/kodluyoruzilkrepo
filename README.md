@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisnde bir adet README dosyası v, bir adet de index.hmtl dosyası barındıryor.
-![resim](https://www.patika.dev/egitimler/frontend-web-development-patikasi/git/odev1/github.png)
+![](https://www.patika.dev/egitimler/frontend-web-development-patikasi/git/odev1/github.png)
 
 # Installation
 Öncelikle bu projeyi clonelayın.
@@ -8,9 +8,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
-'''
+```
 cd kodluyoruzilkrepo
 code .
-'''
+```
 # License
  [Kodluyoruz](https://choosealicense.com/licenses/mit/)
