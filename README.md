@@ -16,4 +16,4 @@ code .
 ```
 
 # License
- [Kodluyoruz](https://choosealicense.com/licenses/mit/)
+ [MIT](https://choosealicense.com/licenses/mit/)
