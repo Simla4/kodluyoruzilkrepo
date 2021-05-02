@@ -1,0 +1,21 @@
+
+    nav, main{
+        list-style-position: inside;
+        text-align: center;
+
+    }
+    h1{
+        color: red;
+        font-size: 40px;
+    }
+    a{
+        font-size: 20px;
+    }
+    h2{
+        color: brown;
+        font-size: 30px;
+    }
+    img{
+        width: 250px;
+        height: 375px;
+    }
